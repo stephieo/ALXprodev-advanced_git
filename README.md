@@ -1,1 +1,3 @@
-i'm troubleshooting the checker
+
+data requirements: email, firstName, lastName, profilePic]
+
